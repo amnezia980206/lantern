@@ -1,0 +1,2 @@
+# lantern
+just a repository
